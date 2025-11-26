@@ -16,6 +16,9 @@ a{
 img{
   max-width: 100%;
 }
+video{
+  max-width: 100%;
+}
 .logo{
   width: 300px;
   margin-top: 14px;
